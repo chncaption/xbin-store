@@ -127,7 +127,7 @@
         <javassist.version>3.15.0-GA</javassist.version>
         <mina.version>1.1.7</mina.version>
         <servlet-api.version>2.5</servlet-api.version>
-        <grizzly.version>2.1.4</grizzly.version>
+        <grizzly.version>2.4.4</grizzly.version>
         <xstream.version>1.4.1</xstream.version>
         <bsf.version>3.1</bsf.version>
         <sorcerer.version>0.8</sorcerer.version>
