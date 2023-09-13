@@ -95,7 +95,7 @@
 
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <springboot.druid.version>0.0.1-SNAPSHOT</springboot.druid.version>
-        <springboot.mybatis.version>1.2.0</springboot.mybatis.version>
+        <springboot.mybatis.version>2.3.1</springboot.mybatis.version>
         <springboot.pagehelper.version>1.1.0</springboot.pagehelper.version>
         <springboot.dubbox.version>0.0.1-SNAPSHOT</springboot.dubbox.version>
         <junit.version>4.12</junit.version>
